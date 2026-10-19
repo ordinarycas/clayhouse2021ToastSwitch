@@ -1,0 +1,1 @@
+var e=/^blob:(?:null|https?:\/\/(?:[A-Za-z0-9._-]+|\[[0-9A-Fa-f:.]+\])(?::\d{1,5})?)\/[0-9A-Fa-f-]{36}$/;export{e as t};
