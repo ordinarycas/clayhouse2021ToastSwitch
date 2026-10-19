@@ -1,0 +1,9 @@
+title=Children's March Theme
+artist=Cleyton Kauffman
+source=https://opengameart.org/content/childrens-march-theme
+license=cc0
+retrieved=2026-10-04
+original=childrens_march_theme.zip (WAV 64.000 s, 44.1 kHz, stereo)
+processing=loop mode: WAV -> libmp3lame 128 kbps, no filters (see THIRD_PARTY.md)
+sha256=c9a0999a354c410da6fc0044b0896eb788ec7f3d91f312dd59e3e06bfed1a6f0
+decoded_duration_s=64.0000
